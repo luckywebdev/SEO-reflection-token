@@ -111,7 +111,7 @@ dist
 .secrets/
 
 # truffle
-migrations/
+# migrations/
 
 # buidler
 artifacts/
